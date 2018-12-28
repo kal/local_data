@@ -1,5 +1,7 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/line_colour> <http://www.w3.org/2000/01/rdf-schema#label> "line_colour"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/line_name_en> <http://www.w3.org/2000/01/rdf-schema#label> "line name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/line_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "line name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/line_name_fr> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/line_name_french> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/line_name> <http://www.w3.org/2000/01/rdf-schema#label> "line name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/line> <http://www.w3.org/2000/01/rdf-schema#label> "line"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
