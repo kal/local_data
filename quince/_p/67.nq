@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv> <http://purl.org/dc/terms/description> "This is a description of my dataset. It should also get saved with the template."^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv/metadata>.
-<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://purl.org/dc/terms/description> "Stations on the Tokyo Metro"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
