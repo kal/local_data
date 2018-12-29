@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv> <http://purl.org/dc/terms/title> "Tokyo Metro Lines.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations> <http://purl.org/dc/terms/title> "Tokyo Metro Stations"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations/metadata>.
+<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://purl.org/dc/terms/title> "Tokyo Metro Stations.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
