@@ -141,32 +141,26 @@
 	  <!-- content -->
       <div class="sixteen wide mobile twelve wide computer column">
 		
-		 			<div class="ui center aligned container search-buttons" id="buttons">
-				<div class="ui link four cards">
+		 			<div class="ui grid" id="buttons">
 				
-
-					
-						<div class="primary card" onclick="buttonSearch('transport')" id="transport">
-							<div class="content">
-								<div class="header">
+											<div class="four wide column">
+																	<button class="fluid ui big basic primary button"
+										data-tag="transport" onclick="buttonSearch('transport')"
+										title="Filter to datasets tagged with transport">
 																									transport
-								</div><!-- end header -->
-							</div><!-- end content -->
-						</div><!-- end card -->
+																</button>
+						</div><!-- end column -->
 									
-
-					
-						<div class="primary card" onclick="buttonSearch('tokyo')" id="tokyo">
-							<div class="content">
-								<div class="header">
+											<div class="four wide column">
+																	<button class="fluid ui big basic primary button"
+										data-tag="tokyo" onclick="buttonSearch('tokyo')"
+										title="Filter to datasets tagged with tokyo">
 																									tokyo
-								</div><!-- end header -->
-							</div><!-- end content -->
-						</div><!-- end card -->
+																</button>
+						</div><!-- end column -->
 									
-				</div><!-- end cards -->
-		  </div><!-- end #buttons -->
-		  <div class="ui hidden divider"></div>
+			</div><!-- end #buttons -->
+			<div class="ui hidden divider"></div>
 		
 		<div class="ui center aligned container">
             <div class="ui big action input">
@@ -225,7 +219,7 @@
 							</dd>
 						
 
-																						<dt class="ds-tags">Tags:</dt>
+																						<dt class="ds-tags" data-tags="|libraries|newcastle|">Tags:</dt>
 									<dd class="ds-tags">
 										<ul>
 										
@@ -261,7 +255,7 @@
 																			<a property="void:dataDump" class="ui primary button mr" href="http://datadock.io/kal/local_data/csv/newcastleLibrariesListcsv/Newcastle_Libraries_List.csv"><i class="download icon"></i>CSV</a>
 																	
 									
-																			<a property="void:dataDump" class="ui primary button mr" href="https://github.com/kal/local_data/releases/download/newcastleLibrariesListcsv_20190306_214934/newcastleLibrariesListcsv_20190306_214934.nt.gz"><i class="download icon"></i>N-QUADS</a>
+																			<a property="void:dataDump" class="ui primary button mr" href="https://github.com/kal/local_data/releases/download/newcastleLibrariesListcsv_20190306_215928/newcastleLibrariesListcsv_20190306_215928.nt.gz"><i class="download icon"></i>N-QUADS</a>
 																	
 												</div> <!-- end extra content -->
 
@@ -302,7 +296,7 @@
 							</dd>
 						
 
-																						<dt class="ds-tags">Tags:</dt>
+																						<dt class="ds-tags" data-tags="|metro|tokyo|">Tags:</dt>
 									<dd class="ds-tags">
 										<ul>
 										
@@ -446,7 +440,7 @@
 							</dd>
 						
 
-																						<dt class="ds-tags">Tags:</dt>
+																						<dt class="ds-tags" data-tags="|tokyo|transport|">Tags:</dt>
 									<dd class="ds-tags">
 										<ul>
 										
