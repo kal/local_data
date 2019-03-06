@@ -1,4 +1,5 @@
 ﻿<http://datadock.io/kal/local_data/> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/local_data/id/dataset/publisher> <http://datadock.io/kal/local_data/metadata>.
+<http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/local_data/id/dataset/publisher> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/local_data/id/dataset/publisher> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/local_data/id/dataset/publisher> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationsLocalDatacsv> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/local_data/id/dataset/publisher> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationsLocalDatacsv/metadata>.
