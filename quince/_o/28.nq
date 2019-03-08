@@ -1,1 +1,3 @@
-﻿<http://datadock.io/kal/local_data/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "Latitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/kal/local_data/csv/tokyoMetroStations/Tokyo\u0020Metro\u0020Stations.csv> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations/metadata>.
+<http://datadock.io/kal/local_data/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "Latitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-赤坂駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-赤坂駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
