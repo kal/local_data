@@ -1,3 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/resource/library/High\u0020Heaton> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv/metadata>.
-<http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv> <http://rdfs.org/ns/void#triples> "91"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv/metadata>.
-<http://datadock.io/kal/local_data/id/definition/station_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "station name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+﻿<http://datadock.io/kal/local_data/id/definition/station_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "station name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.

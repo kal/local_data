@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/longitude> <http://www.w3.org/2000/01/rdf-schema#label> "Longitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
-<http://datadock.io/kal/local_data/id/resource/library/West\u0020End> <http://datadock.io/kal/local_data/id/definition/no_of_pcs> "24"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv>.
