@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Mb> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv/metadata>.
-<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-虎ノ門駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.

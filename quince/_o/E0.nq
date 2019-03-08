@@ -1,2 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-東新宿駅> <http://datadock.io/kal/local_data/id/definition/station_name> "東新宿駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroStationscsv/row_180> <http://datadock.io/kal/local_data/id/definition/station_name> "東新宿駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+﻿

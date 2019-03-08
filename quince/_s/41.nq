@@ -1,4 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/tokyoMetroStationscsv/row_59> <http://datadock.io/kal/local_data/id/definition/on_line> "http://datadock.io/kal/data/id/resource/line/tokyo-metro-H"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroStationscsv/row_59> <http://datadock.io/kal/local_data/id/definition/station_name_english> "Hatchōbori"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroStationscsv/row_59> <http://datadock.io/kal/local_data/id/definition/station_name> "八丁堀駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroStationscsv/row_59> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-八丁堀駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+﻿
