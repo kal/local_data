@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/library/Newburn> <http://datadock.io/kal/local_data/id/definition/longitude> "-1.741778"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-F> <http://datadock.io/kal/local_data/id/definition/line_name> "副都心線"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroLinescsv/line/tokyo-metro-F> <http://datadock.io/kal/local_data/id/definition/line_name> "副都心線"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.

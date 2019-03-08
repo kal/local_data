@@ -1,4 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/line_name_fr> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/line_name_french> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-N> <http://datadock.io/kal/local_data/id/definition/line_colour> "dark aqua"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroLinescsv/line/tokyo-metro-N> <http://datadock.io/kal/local_data/id/definition/line_colour> "dark aqua"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.

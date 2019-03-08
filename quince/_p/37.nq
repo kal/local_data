@@ -1,2 +1,1 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv> <http://rdfs.org/ns/void#triples> "91"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesListcsv/metadata>.
-<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv> <http://rdfs.org/ns/void#triples> "50"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv/metadata>.
