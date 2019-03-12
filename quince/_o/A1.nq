@@ -1,3 +1,5 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-後楽園駅> <http://www.w3.org/2000/01/rdf-schema#label> "後楽園駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-早稲田駅> <http://www.w3.org/2000/01/rdf-schema#label> "早稲田駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-赤羽岩淵駅> <http://www.w3.org/2000/01/rdf-schema#label> "赤羽岩淵駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+<http://datadock.io/kal/local_data/id/resource/stop/M-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#M-14> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+<http://datadock.io/kal/local_data/id/resource/stop/Z-08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#Z-08> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.

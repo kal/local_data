@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/local_data/id/resource/stop/N-09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#N-09> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+<http://datadock.io/kal/local_data/id/resource/stop/N-17> <http://www.w3.org/2000/01/rdf-schema#label> "N-17"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.

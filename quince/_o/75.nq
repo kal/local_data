@@ -1,3 +1,4 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-綾瀬駅> <http://www.w3.org/2000/01/rdf-schema#label> "綾瀬駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-行徳駅> <http://datadock.io/kal/local_data/id/definition/station_name_english> "Gyōtoku"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-赤坂駅> <http://www.w3.org/2000/01/rdf-schema#label> "赤坂駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+<http://datadock.io/kal/local_data/id/resource/stop/M-07> <http://www.w3.org/2000/01/rdf-schema#label> "M-07"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
