@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/kal/local_data/csv/tokyoMetroLines/Tokyo\u0020Metro\u0020Lines.csv> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
+<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://rdfs.org/ns/void#dataDump> <https://github.com/kal/local_data/releases/download/tokyoMetroLines_20190312_101148/tokyoMetroLines_20190312_101148.nt.gz> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
