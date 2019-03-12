@@ -1,1 +1,6 @@
-﻿
+﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-中野新橋駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-中野新橋駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-原木中山駅> <http://www.w3.org/2000/01/rdf-schema#label> "原木中山駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-小伝馬町駅> <http://www.w3.org/2000/01/rdf-schema#label> "小伝馬町駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-新大塚駅> <http://datadock.io/kal/local_data/id/definition/station_name_english> "Shin-ōtsuka"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-秋葉原駅> <http://datadock.io/kal/local_data/id/definition/station_name_english> "Akihabara"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-麻布十番駅> <http://datadock.io/kal/local_data/id/definition/station_name_english> "Azabu-Jūban"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.

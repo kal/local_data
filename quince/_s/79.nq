@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/longitude> <http://www.w3.org/2000/01/rdf-schema#label> "Longitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#label> "line name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#label> "station name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.

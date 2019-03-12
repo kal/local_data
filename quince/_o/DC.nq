@@ -1,2 +1,4 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://www.w3.org/ns/dcat#keyword> "metro"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
+<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://www.w3.org/ns/dcat#keyword> "metro"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-H> <http://datadock.io/kal/local_data/id/definition/line_colour> "silver"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-有楽町駅> <http://www.w3.org/2000/01/rdf-schema#label> "有楽町駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.

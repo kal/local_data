@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://www.w3.org/ns/dcat#keyword> "stations"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-要町駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-要町駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.

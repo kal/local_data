@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://rdfs.org/ns/void#triples> "40"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
+<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://rdfs.org/ns/void#triples> "615"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
