@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://datadock.io/kal/local_data/id/definition/line_colour> "gold"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroStationscsv/row_178> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-雑司が谷駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroStationscsv/row_8> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-新橋駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
