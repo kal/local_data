@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://www.w3.org/ns/dcat#keyword> "tokyo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
+<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations> <http://www.w3.org/ns/dcat#keyword> "tokyo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations/metadata>.

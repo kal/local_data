@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/definition/line_name_french> "Ligne Hanzōmon"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/tokyoMetroStationscsv/row_85> <http://datadock.io/kal/local_data/id/definition/station_name> "西葛西駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
