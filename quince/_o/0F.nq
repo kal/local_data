@@ -1,3 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-池袋駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-池袋駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
-<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-目黒駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-目黒駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
-<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-赤坂見附駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-赤坂見附駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
+﻿

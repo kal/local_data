@@ -1,3 +1,1 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/line> <http://www.w3.org/2000/01/rdf-schema#label> "line"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
-<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-原木中山駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-原木中山駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
-<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-東池袋駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-東池袋駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStations>.
