@@ -1,2 +1,1 @@
-﻿_:autos24 <http://www.w3.org/ns/csvw#row> _:autos43 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/stop/Y-22> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-豊洲駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+﻿<http://datadock.io/kal/local_data/id/resource/stop/Y-22> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-豊洲駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.

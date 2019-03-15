@@ -1,10 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://datadock.io/kal/local_data/id/definition/line_colour> "gold"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://datadock.io/kal/local_data/id/definition/line_colour> "gold"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://datadock.io/kal/local_data/id/definition/line_name_english> "Yūrakuchō Line"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://datadock.io/kal/local_data/id/definition/line_name_french> "Ligne Yūrakuchō"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://www.w3.org/2000/01/rdf-schema#label> "Ligne Yūrakuchō"@fr <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://www.w3.org/2000/01/rdf-schema#label> "Ligne Yūrakuchō"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://www.w3.org/2000/01/rdf-schema#label> "Yūrakuchō Line"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://www.w3.org/2000/01/rdf-schema#label> "Yūrakuchō Line"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://www.w3.org/2000/01/rdf-schema#label> "有楽町線"@jp <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://www.w3.org/2000/01/rdf-schema#label> "有楽町線"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+﻿
