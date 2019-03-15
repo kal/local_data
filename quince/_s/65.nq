@@ -1,4 +1,8 @@
-﻿_:autos68 <http://purl.org/dc/terms/description> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+﻿_:autos61 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos61 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos61 <http://www.w3.org/ns/csvw#rownum> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos61 <http://www.w3.org/ns/csvw#url> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines#row=9> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos68 <http://purl.org/dc/terms/description> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos68 <http://purl.org/dc/terms/license> "https://creativecommons.org/publicdomain/zero/1.0/"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos68 <http://purl.org/dc/terms/title> "Tokyo Metro Lines"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Table> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.

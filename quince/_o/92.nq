@@ -1,5 +1,6 @@
 ﻿_:autos11 <http://www.w3.org/ns/csvw#rownum> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos33 <http://www.w3.org/ns/csvw#rownum> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos55 <http://www.w3.org/ns/csvw#rownum> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos77 <http://www.w3.org/ns/csvw#rownum> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-広尾駅> <http://datadock.io/kal/local_data/id/definition/station_name_english> "Hiroo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-町屋駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-町屋駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.

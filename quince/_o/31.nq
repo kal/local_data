@@ -1,4 +1,5 @@
 ﻿_:autos31 <http://www.w3.org/ns/csvw#rownum> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos53 <http://www.w3.org/ns/csvw#rownum> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos75 <http://www.w3.org/ns/csvw#rownum> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos9 <http://www.w3.org/ns/csvw#rownum> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://www.w3.org/2000/01/rdf-schema#label> "丸ノ内線"@jp <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.

@@ -1,5 +1,6 @@
 ﻿_:autos2 <http://www.w3.org/ns/csvw#row> _:autos19 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos27 <http://www.w3.org/ns/csvw#rownum> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos49 <http://www.w3.org/ns/csvw#rownum> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos5 <http://www.w3.org/ns/csvw#rownum> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos71 <http://www.w3.org/ns/csvw#rownum> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-渋谷駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.

@@ -1,5 +1,6 @@
 ﻿_:autos25 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos3 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos47 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos69 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/resource/stop/G-07> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
