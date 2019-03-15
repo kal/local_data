@@ -1,4 +1,8 @@
-﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/definition/line_colour> "purple"@de <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+﻿_:autos37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos37 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-H> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos37 <http://www.w3.org/ns/csvw#rownum> "7"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos37 <http://www.w3.org/ns/csvw#url> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines#row=8> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/definition/line_colour> "purple"@de <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/definition/line_colour> "purple"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://www.w3.org/2000/01/rdf-schema#label> "Hanzōmon Line"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://www.w3.org/2000/01/rdf-schema#label> "Ligne Hanzōmon"@fr <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.

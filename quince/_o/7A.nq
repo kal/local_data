@@ -1,5 +1,7 @@
 ﻿_:autos2 <http://www.w3.org/ns/dcat#keyword> "tokyo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos21 <http://www.w3.org/ns/csvw#rownum> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos24 <http://www.w3.org/ns/dcat#keyword> "tokyo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos43 <http://www.w3.org/ns/csvw#rownum> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos68 <http://www.w3.org/ns/dcat#keyword> "tokyo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos87 <http://www.w3.org/ns/csvw#rownum> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://www.w3.org/ns/dcat#keyword> "tokyo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.

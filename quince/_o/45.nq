@@ -4,7 +4,17 @@ _:autos15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/n
 _:autos17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.

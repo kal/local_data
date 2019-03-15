@@ -4,7 +4,17 @@ _:autos15 <http://www.w3.org/ns/csvw#rownum> "7"^^<http://www.w3.org/2001/XMLSch
 _:autos17 <http://www.w3.org/ns/csvw#rownum> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos19 <http://www.w3.org/ns/csvw#rownum> "9"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos21 <http://www.w3.org/ns/csvw#rownum> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos25 <http://www.w3.org/ns/csvw#rownum> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos27 <http://www.w3.org/ns/csvw#rownum> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos29 <http://www.w3.org/ns/csvw#rownum> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos3 <http://www.w3.org/ns/csvw#rownum> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos31 <http://www.w3.org/ns/csvw#rownum> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos33 <http://www.w3.org/ns/csvw#rownum> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos35 <http://www.w3.org/ns/csvw#rownum> "6"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos37 <http://www.w3.org/ns/csvw#rownum> "7"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos39 <http://www.w3.org/ns/csvw#rownum> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos41 <http://www.w3.org/ns/csvw#rownum> "9"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos43 <http://www.w3.org/ns/csvw#rownum> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos5 <http://www.w3.org/ns/csvw#rownum> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos69 <http://www.w3.org/ns/csvw#rownum> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 _:autos7 <http://www.w3.org/ns/csvw#rownum> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
