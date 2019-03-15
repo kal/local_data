@@ -1,2 +1,4 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-H> <http://www.w3.org/2000/01/rdf-schema#label> "日比谷線"@jp <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/definition/line_colour> "red"@de <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Mb> <http://datadock.io/kal/local_data/id/definition/line_colour> "red"@de <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/stop/H-04> <http://www.w3.org/2000/01/rdf-schema#label> "H-04"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.

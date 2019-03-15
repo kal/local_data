@@ -1,4 +1,5 @@
-﻿_:autos77 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+﻿_:autos11 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos77 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/kal/local_data/csv/tokyoMetroStationscsv/Tokyo\u0020Metro\u0020Stations.csv> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-三越前駅> <http://datadock.io/kal/local_data/id/definition/on_line> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
