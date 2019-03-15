@@ -1,2 +1,1 @@
-﻿_:autos7 <http://www.w3.org/ns/csvw#rownum> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/stop/Y-22> <http://www.w3.org/2000/01/rdf-schema#label> "Y-22"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+﻿<http://datadock.io/kal/local_data/id/resource/stop/Y-22> <http://www.w3.org/2000/01/rdf-schema#label> "Y-22"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
