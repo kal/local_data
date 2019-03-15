@@ -1,1 +1,10 @@
-﻿
+﻿_:autos69 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos71 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Mb> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos73 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-F> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos75 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-C> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos77 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos79 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-N> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos81 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-H> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos83 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos85 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-T> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos87 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.

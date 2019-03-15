@@ -1,0 +1,4 @@
+﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/definition/line_colour> "red"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://www.w3.org/2000/01/rdf-schema#label> "Ligne Marunouchi"@fr <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://www.w3.org/2000/01/rdf-schema#label> "Marunouchi Line"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://www.w3.org/2000/01/rdf-schema#label> "丸ノ内線"@jp <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
