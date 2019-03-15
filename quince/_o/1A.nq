@@ -1,5 +1,4 @@
 ﻿_:autos2 <http://www.w3.org/ns/csvw#row> _:autos15 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-H> <http://datadock.io/kal/local_data/id/definition/line_colour> "silver"@de <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/stop/C-08> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-霞ケ関駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/H-06> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-霞ケ関駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/M-15> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-霞ケ関駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.

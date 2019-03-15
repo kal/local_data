@@ -1,7 +1,4 @@
 ﻿_:autos2 <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-_:autos24 <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-_:autos46 <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-_:autos68 <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-H> <http://datadock.io/kal/local_data/id/definition/line_colour> "silver"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.

@@ -1,5 +1,4 @@
-﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://datadock.io/kal/local_data/id/definition/line_colour> "orange"@de <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://datadock.io/kal/local_data/id/definition/line_colour> "orange"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://datadock.io/kal/local_data/id/definition/line_colour> "orange"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://www.w3.org/2000/01/rdf-schema#label> "Ginza Line"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://www.w3.org/2000/01/rdf-schema#label> "Ligne Ginza"@fr <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://www.w3.org/2000/01/rdf-schema#label> "銀座線"@jp <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
