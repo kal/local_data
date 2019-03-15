@@ -1,2 +1,1 @@
-﻿_:autos13 <http://www.w3.org/ns/csvw#rownum> "6"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-<http://datadock.io/kal/local_data/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://datadock.io/kal/local_data/metadata>.
+﻿<http://datadock.io/kal/local_data/> <http://rdfs.org/ns/void#subset> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://datadock.io/kal/local_data/metadata>.

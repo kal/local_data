@@ -1,19 +1,4 @@
-﻿_:autos2 <http://purl.org/dc/terms/description> ""^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://purl.org/dc/terms/license> "https://creativecommons.org/publicdomain/zero/1.0/"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://purl.org/dc/terms/title> "Tokyo Metro Lines.csv"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Table> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos11 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos13 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos15 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos17 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos19 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos21 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos3 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos5 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos7 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#row> _:autos9 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos2 <http://www.w3.org/ns/csvw#url> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
+﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://purl.org/dc/terms/license> <https://creativecommons.org/publicdomain/zero/1.0/> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://purl.org/dc/terms/modified> "2019-03-12"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://purl.org/dc/terms/publisher> <http://datadock.io/kal/local_data/id/dataset/publisher> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://purl.org/dc/terms/title> "Tokyo Metro Stops"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.

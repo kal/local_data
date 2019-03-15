@@ -1,4 +1,1 @@
-﻿_:autos9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/csvw#Row> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos9 <http://www.w3.org/ns/csvw#describes> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-C> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos9 <http://www.w3.org/ns/csvw#rownum> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-_:autos9 <http://www.w3.org/ns/csvw#url> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv#row=5> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
+﻿

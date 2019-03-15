@@ -1,4 +1,3 @@
-﻿_:autos2 <http://www.w3.org/ns/csvw#row> _:autos3 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-京橋駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-京橋駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-京橋駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-京橋駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-志茂駅> <http://www.w3.org/2000/01/rdf-schema#label> "志茂駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/stop/G-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#G-12> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.

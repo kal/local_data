@@ -1,5 +1,4 @@
-﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://www.w3.org/2000/01/rdf-schema#label> "Ligne Marunouchi"@fr <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
-<http://datadock.io/kal/local_data/id/resource/stop/C-05> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-乃木坂駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+﻿<http://datadock.io/kal/local_data/id/resource/stop/C-05> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-乃木坂駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/G-01> <http://www.w3.org/2000/01/rdf-schema#label> "G-01"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/M-02> <http://www.w3.org/2000/01/rdf-schema#label> "M-02"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/Y-01> <http://www.w3.org/2000/01/rdf-schema#label> "Y-01"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
