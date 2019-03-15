@@ -1,4 +1,5 @@
 ﻿_:autos24 <http://purl.org/dc/terms/license> "https://creativecommons.org/publicdomain/zero/1.0/"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+_:autos46 <http://purl.org/dc/terms/license> "https://creativecommons.org/publicdomain/zero/1.0/"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/definition/station_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "station name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-T> <http://www.w3.org/2000/01/rdf-schema#label> "Tōzai Line"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-北参道駅> <http://www.w3.org/2000/01/rdf-schema#label> "北参道駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.

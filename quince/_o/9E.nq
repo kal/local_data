@@ -1,2 +1,3 @@
-﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-中野駅> <http://www.w3.org/2000/01/rdf-schema#label> "中野駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+﻿_:autos46 <http://www.w3.org/ns/csvw#row> _:autos65 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-中野駅> <http://www.w3.org/2000/01/rdf-schema#label> "中野駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-葛西駅> <http://datadock.io/kal/local_data/id/definition/station> "tokyo-metro-葛西駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
