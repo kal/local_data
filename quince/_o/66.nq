@@ -1,3 +1,4 @@
-﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-四谷三丁目駅> <http://www.w3.org/2000/01/rdf-schema#label> "四谷三丁目駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
+﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-N> <http://www.w3.org/2000/01/rdf-schema#label> "南北線"@jp <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLinescsv>.
+<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-四谷三丁目駅> <http://www.w3.org/2000/01/rdf-schema#label> "四谷三丁目駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-神田駅> <http://datadock.io/kal/local_data/id/definition/station_name_english> "Kanda"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/stop/M-12> <http://www.w3.org/2000/01/rdf-schema#label> "M-12"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
