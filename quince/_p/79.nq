@@ -15,6 +15,8 @@
 <http://datadock.io/kal/local_data/id/definition/station_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "station name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/station_name> <http://www.w3.org/2000/01/rdf-schema#label> "station name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/station> <http://www.w3.org/2000/01/rdf-schema#label> "station"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/thing> <http://www.w3.org/2000/01/rdf-schema#label> "Thing"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/time> <http://www.w3.org/2000/01/rdf-schema#label> "Time"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/type> <http://www.w3.org/2000/01/rdf-schema#label> "Type"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/wi_fi_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-C> <http://www.w3.org/2000/01/rdf-schema#label> "Chiyoda Line"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.

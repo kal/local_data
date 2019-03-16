@@ -1,4 +1,6 @@
-﻿<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
+﻿<http://datadock.io/kal/local_data/id/dataset/dateTimeDemo> <http://purl.org/dc/terms/title> "Date Time Demo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/dateTimeDemo/metadata>.
+<http://datadock.io/kal/local_data/id/dataset/dateTimeDemo> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/resource/thing/B> <http://datadock.io/kal/local_data/id/dataset/dateTimeDemo/metadata>.
+<http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://www.w3.org/ns/dcat#keyword> "transport"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
 <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-H> <http://datadock.io/kal/local_data/id/definition/line_colour> "silver"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-外苑前駅> <http://www.w3.org/2000/01/rdf-schema#label> "外苑前駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
