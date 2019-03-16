@@ -1,2 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/201812MetropolitanStopAndSearchcsv/row_6909> <http://datadock.io/kal/local_data/id/definition/longitude> "-0.225080"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/metropolitanPoliceStopAndSearchDecember2018>.
-<http://datadock.io/kal/local_data/id/resource/stop/T-03> <http://www.w3.org/2000/01/rdf-schema#label> "T-03"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+﻿<http://datadock.io/kal/local_data/id/resource/stop/T-03> <http://www.w3.org/2000/01/rdf-schema#label> "T-03"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.

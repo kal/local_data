@@ -1,5 +1,4 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/dateTimeDemo> <http://rdfs.org/ns/void#triples> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/dateTimeDemo/metadata>.
-<http://datadock.io/kal/local_data/id/dataset/metropolitanPoliceStopAndSearchDecember2018> <http://rdfs.org/ns/void#triples> "181260"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/metropolitanPoliceStopAndSearchDecember2018/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://rdfs.org/ns/void#triples> "40"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://rdfs.org/ns/void#triples> "615"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://rdfs.org/ns/void#triples> "736"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
