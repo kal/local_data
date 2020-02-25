@@ -1,10 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-C> <http://datadock.io/kal/local_data/id/definition/line_colour> "green"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-F> <http://datadock.io/kal/local_data/id/definition/line_colour> "brown"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://datadock.io/kal/local_data/id/definition/line_colour> "orange"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-H> <http://datadock.io/kal/local_data/id/definition/line_colour> "silver"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-M> <http://datadock.io/kal/local_data/id/definition/line_colour> "red"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Mb> <http://datadock.io/kal/local_data/id/definition/line_colour> "red"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-N> <http://datadock.io/kal/local_data/id/definition/line_colour> "dark aqua"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-T> <http://datadock.io/kal/local_data/id/definition/line_colour> "sky blue"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://datadock.io/kal/local_data/id/definition/line_colour> "gold"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Z> <http://datadock.io/kal/local_data/id/definition/line_colour> "purple"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+﻿

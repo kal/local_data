@@ -1,4 +1,4 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/line_colour> <http://www.w3.org/2000/01/rdf-schema#label> "line_colour"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-Y> <http://www.w3.org/2000/01/rdf-schema#label> "Ligne Yūrakuchō"@fr <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
+<http://datadock.io/kal/local_data/id/definition/lineColour> <http://www.w3.org/2000/01/rdf-schema#label> "line_colour"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/resource/stop/m-04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#m-04> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/Y-20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#Y-20> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
