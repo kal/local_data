@@ -2,3 +2,4 @@
 <http://datadock.io/kal/local_data/id/resource/stop/N-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#N-01> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/T-03> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-高田馬場駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/Z-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#Z-01> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+<http://datadock.io/kal/local_data/id/resource/tokyoMetroLines/row_3> <http://datadock.io/kal/local_data/id/definition/lineNameEnglish> "Fukutoshin Line"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.

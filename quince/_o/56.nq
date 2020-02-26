@@ -5,3 +5,4 @@
 <http://datadock.io/kal/local_data/id/resource/stop/M-25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#M-25> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/T-14> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-東陽町駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/Y-14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#Y-14> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+<http://datadock.io/kal/local_data/id/resource/tokyoMetroLines/row_10> <http://datadock.io/kal/local_data/id/definition/lineNameFrench> "Ligne Ginza"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
