@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_70> <http://datadock.io/kal/local_data/id/definition/nearestPostcode> "IG11 8UD"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_716> <http://datadock.io/kal/local_data/id/definition/northing> "167924"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.

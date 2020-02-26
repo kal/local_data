@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_136> <http://datadock.io/kal/local_data/id/definition/easting> "545032"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_303> <http://datadock.io/kal/local_data/id/definition/northing> "172895"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.

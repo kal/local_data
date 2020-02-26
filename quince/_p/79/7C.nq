@@ -1,8 +1,15 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/age_range> <http://www.w3.org/2000/01/rdf-schema#label> "Age range"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/at_station> <http://www.w3.org/2000/01/rdf-schema#label> "at_station"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/borough> <http://www.w3.org/2000/01/rdf-schema#label> "Borough"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/boroughRef> <http://www.w3.org/2000/01/rdf-schema#label> "Borough_Ref"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/comments> <http://www.w3.org/2000/01/rdf-schema#label> "Comments"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/computer_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Computer Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/date> <http://www.w3.org/2000/01/rdf-schema#label> "Date"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/easting> <http://www.w3.org/2000/01/rdf-schema#label> "Easting"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/facilities> <http://www.w3.org/2000/01/rdf-schema#label> "Facilities"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/gender> <http://www.w3.org/2000/01/rdf-schema#label> "Gender"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/glaId> <http://www.w3.org/2000/01/rdf-schema#label> "GLA_ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/grade> <http://www.w3.org/2000/01/rdf-schema#label> "Grade"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "Latitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/legislation> <http://www.w3.org/2000/01/rdf-schema#label> "Legislation"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/library> <http://www.w3.org/2000/01/rdf-schema#label> "Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
@@ -17,11 +24,16 @@
 <http://datadock.io/kal/local_data/id/definition/lineName> <http://www.w3.org/2000/01/rdf-schema#label> "line name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/lineNameEnglish> <http://www.w3.org/2000/01/rdf-schema#label> "line name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/lineNameFrench> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/location> <http://www.w3.org/2000/01/rdf-schema#label> "Location"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/longitude> <http://www.w3.org/2000/01/rdf-schema#label> "Longitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/nearestPostcode> <http://www.w3.org/2000/01/rdf-schema#label> "NearestPostcode"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/no_of_pcs> <http://www.w3.org/2000/01/rdf-schema#label> "No of PCs"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/northing> <http://www.w3.org/2000/01/rdf-schema#label> "Northing"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/object_of_search> <http://www.w3.org/2000/01/rdf-schema#label> "Object of search"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/officer_defined_ethnicity> <http://www.w3.org/2000/01/rdf-schema#label> "Officer-defined ethnicity"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/on_line> <http://www.w3.org/2000/01/rdf-schema#label> "on_line"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/organisation> <http://www.w3.org/2000/01/rdf-schema#label> "Organisation"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/outcome_linked_to_object_of_search> <http://www.w3.org/2000/01/rdf-schema#label> "Outcome linked to object of search"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/outcome> <http://www.w3.org/2000/01/rdf-schema#label> "Outcome"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/part_of_a_policing_operation> <http://www.w3.org/2000/01/rdf-schema#label> "Part of a policing operation"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
@@ -30,6 +42,7 @@
 <http://datadock.io/kal/local_data/id/definition/station_name_english> <http://www.w3.org/2000/01/rdf-schema#label> "station name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/station_name> <http://www.w3.org/2000/01/rdf-schema#label> "station name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/station> <http://www.w3.org/2000/01/rdf-schema#label> "station"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/suppliedPostcode> <http://www.w3.org/2000/01/rdf-schema#label> "SuppliedPostcode"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/thing> <http://www.w3.org/2000/01/rdf-schema#label> "Thing"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/time> <http://www.w3.org/2000/01/rdf-schema#label> "Time"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/type> <http://www.w3.org/2000/01/rdf-schema#label> "Type"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
@@ -390,6 +403,8 @@
 <http://datadock.io/kal/local_data/id/resource/stop/Z-12> <http://www.w3.org/2000/01/rdf-schema#label> "Z-12"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/Z-13> <http://www.w3.org/2000/01/rdf-schema#label> "Z-13"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
 <http://datadock.io/kal/local_data/id/resource/stop/Z-14> <http://www.w3.org/2000/01/rdf-schema#label> "Z-14"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
+<http://www.opengis.net/ont/geosparql#lat> <http://www.w3.org/2000/01/rdf-schema#label> "Latitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://www.opengis.net/ont/geosparql#long> <http://www.w3.org/2000/01/rdf-schema#label> "Longitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://www.w3.org/2000/01/rdf-schema#label> "﻿seeAlso"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#label> "line name english"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
