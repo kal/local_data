@@ -1,1 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_82> <http://datadock.io/kal/local_data/id/definition/name> "Brook Farm (South)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_82> <http://www.w3.org/2000/01/rdf-schema#label> "Brook Farm (South)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
