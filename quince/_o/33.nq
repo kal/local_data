@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-上野広小路駅> <http://www.w3.org/2000/01/rdf-schema#label> "上野広小路駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
 <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-京橋駅> <http://www.w3.org/2000/01/rdf-schema#label> "京橋駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.
-<http://datadock.io/kal/local_data/id/resource/tokyoMetroLines/row_2> <http://datadock.io/kal/local_data/id/definition/lineNameFrench> "Ligne Marunouchi Ligne secondaire"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
