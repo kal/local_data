@@ -1,1 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_57> <http://www.opengis.net/ont/geosparql#long> "-0.188867"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaId/732> <http://datadock.io/kal/local_data/id/definition/longitude> "-0.188867"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.

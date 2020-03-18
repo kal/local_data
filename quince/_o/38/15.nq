@@ -1,2 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/comments> <http://www.w3.org/2000/01/rdf-schema#label> "Comments"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
-<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_177> <http://datadock.io/kal/local_data/id/definition/easting> "519909"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+<http://datadock.io/kal/local_data/id/resource/glaId/119> <http://datadock.io/kal/local_data/id/definition/easting> "519909"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.

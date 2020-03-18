@@ -1,2 +1,2 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_198> <http://datadock.io/kal/local_data/id/definition/location> "Carr Road, Northolt"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaId/245> <http://datadock.io/kal/local_data/id/definition/location> "Carr Road, Northolt"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
 <http://datadock.io/kal/local_data/id/resource/stop/T-19> <http://www.w3.org/2000/01/rdf-schema#label> "T-19"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
