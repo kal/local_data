@@ -1,1 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_552> <http://datadock.io/kal/local_data/id/definition/glaId> "585"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaId/585> <http://datadock.io/kal/local_data/id/definition/glaId> "585"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.

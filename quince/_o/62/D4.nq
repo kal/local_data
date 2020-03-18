@@ -1,2 +1,2 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_130> <http://datadock.io/kal/local_data/id/definition/comments> "TQ 5465 1761"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaId/69> <http://datadock.io/kal/local_data/id/definition/comments> "TQ 5465 1761"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
 <http://datadock.io/kal/local_data/id/resource/stop/F-12> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-東新宿駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
