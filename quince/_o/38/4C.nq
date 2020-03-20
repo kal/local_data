@@ -1,1 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaId/725> <http://datadock.io/kal/local_data/id/definition/longitude> "-0.009833"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_584> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-0.009833"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.

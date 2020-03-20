@@ -1,1 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaId/142> <http://datadock.io/kal/local_data/id/definition/name> "Foxbury"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_17> <http://www.w3.org/2000/01/rdf-schema#label> "Foxbury"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
