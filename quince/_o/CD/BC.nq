@@ -1,2 +1,2 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_397> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "0.16351"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_397> <http://datadock.io/kal/local_data/id/definition/longitude> "0.16351"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
 <http://datadock.io/kal/local_data/id/resource/londonAllotments/row_397> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "0.16351"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/londonAllotments>.
