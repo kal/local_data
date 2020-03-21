@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_663> <http://datadock.io/kal/local_data/id/definition/nearestPostcode> "TW12 2UA"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+<http://datadock.io/kal/local_data/id/resource/londonAllotments/row_663> <http://datadock.io/kal/local_data/id/definition/nearestPostcode> "TW12 2UA"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/londonAllotments>.

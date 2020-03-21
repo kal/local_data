@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_103> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-0.194452"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+<http://datadock.io/kal/local_data/id/resource/londonAllotments/row_103> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-0.194452"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/londonAllotments>.
