@@ -4,6 +4,7 @@
 <http://datadock.io/kal/local_data/id/definition/boroughRef> <http://www.w3.org/2000/01/rdf-schema#label> "Borough_Ref"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/comments> <http://www.w3.org/2000/01/rdf-schema#label> "Comments"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/computer_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Computer Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/computerProvision> <http://www.w3.org/2000/01/rdf-schema#label> "Computer Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/date> <http://www.w3.org/2000/01/rdf-schema#label> "Date"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/easting> <http://www.w3.org/2000/01/rdf-schema#label> "Easting"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/facilities> <http://www.w3.org/2000/01/rdf-schema#label> "Facilities"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
@@ -29,6 +30,7 @@
 <http://datadock.io/kal/local_data/id/definition/name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/nearestPostcode> <http://www.w3.org/2000/01/rdf-schema#label> "NearestPostcode"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/no_of_pcs> <http://www.w3.org/2000/01/rdf-schema#label> "No of PCs"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/noOfPCs> <http://www.w3.org/2000/01/rdf-schema#label> "No of PCs"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/northing> <http://www.w3.org/2000/01/rdf-schema#label> "Northing"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/object_of_search> <http://www.w3.org/2000/01/rdf-schema#label> "Object of search"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/officer_defined_ethnicity> <http://www.w3.org/2000/01/rdf-schema#label> "Officer-defined ethnicity"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
@@ -47,6 +49,7 @@
 <http://datadock.io/kal/local_data/id/definition/time> <http://www.w3.org/2000/01/rdf-schema#label> "Time"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/type> <http://www.w3.org/2000/01/rdf-schema#label> "Type"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/wi_fi_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/wiFiProvision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_1> <http://www.w3.org/2000/01/rdf-schema#label> "Abbots Way"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
 <http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_10> <http://www.w3.org/2000/01/rdf-schema#label> "Bull Lane"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
 <http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_100> <http://www.w3.org/2000/01/rdf-schema#label> "Hatley Close"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
