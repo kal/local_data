@@ -11,6 +11,7 @@
 <http://datadock.io/kal/local_data/id/definition/gender> <http://www.w3.org/2000/01/rdf-schema#label> "Gender"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/glaId> <http://www.w3.org/2000/01/rdf-schema#label> "GLA_ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/grade> <http://www.w3.org/2000/01/rdf-schema#label> "Grade"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/issues> <http://www.w3.org/2000/01/rdf-schema#label> "issues"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/latitude> <http://www.w3.org/2000/01/rdf-schema#label> "Latitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/legislation> <http://www.w3.org/2000/01/rdf-schema#label> "Legislation"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/library> <http://www.w3.org/2000/01/rdf-schema#label> "Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
@@ -27,6 +28,7 @@
 <http://datadock.io/kal/local_data/id/definition/lineNameFrench> <http://www.w3.org/2000/01/rdf-schema#label> "line name french"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/location> <http://www.w3.org/2000/01/rdf-schema#label> "Location"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/longitude> <http://www.w3.org/2000/01/rdf-schema#label> "Longitude"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
+<http://datadock.io/kal/local_data/id/definition/month> <http://www.w3.org/2000/01/rdf-schema#label> "month"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/nearestPostcode> <http://www.w3.org/2000/01/rdf-schema#label> "NearestPostcode"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
 <http://datadock.io/kal/local_data/id/definition/no_of_pcs> <http://www.w3.org/2000/01/rdf-schema#label> "No of PCs"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.

@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/londonAllotments/row_507> <http://www.w3.org/2000/01/rdf-schema#label> "Tamworth Farm Allotments"@en <http://datadock.io/kal/local_data/id/dataset/londonAllotments>.
+<http://datadock.io/kal/local_data/id/resource/newcastleLibrariesIssues/row_1004> <http://datadock.io/kal/local_data/id/definition/issues> "5073"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesIssues>.
