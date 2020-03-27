@@ -213,3 +213,4 @@
 <http://datadock.io/kal/local_data/id/resource/library/Gosforth> <http://datadock.io/kal/local_data/id/definition/noOfPCs> "25"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries>.
 <http://datadock.io/kal/local_data/id/resource/library/Gosforth> <http://datadock.io/kal/local_data/id/definition/type> "Library"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries>.
 <http://datadock.io/kal/local_data/id/resource/library/Gosforth> <http://datadock.io/kal/local_data/id/definition/wiFiProvision> "Public Wi-Fi"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries>.
+<http://datadock.io/kal/local_data/id/resource/library/Gosforth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Library> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList>.

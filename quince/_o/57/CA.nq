@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/library/Cruddas> <http://datadock.io/kal/local_data/id/definition/latitude> "54.966185"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries>.
+<http://datadock.io/kal/local_data/id/resource/library/Cruddas> <http://datadock.io/kal/local_data/id/definition/latitude> "54.966185"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList>.
