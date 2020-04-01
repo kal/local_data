@@ -1,2 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/library/Outer%20West> <http://datadock.io/kal/local_data/id/definition/latitude> "54.992921"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries>.
-<http://datadock.io/kal/local_data/id/resource/library/Outer%20West> <http://datadock.io/kal/local_data/id/definition/latitude> "54.992921"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList>.
+<http://datadock.io/kal/local_data/id/resource/newcastleLibrariesList/row_11> <http://datadock.io/kal/local_data/id/definition/latitude> "54.992921"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList>.
