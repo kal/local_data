@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data/id/definition/confirmedCases2017-39> <http://schema.org/year> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/malariaConfirmedCases>.
+<http://datadock.io/kal/local_data/id/definition/confirmedCases2017-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "69931"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/malariaConfirmedCases>.
