@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/local_data/id/definition/confirmedCases2016-1> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases/metadata>.
+<http://datadock.io/kal/local_data/id/resource/country/Afghanistan> <http://datadock.io/kal/local_data/id/definition/confirmedCases> <http://datadock.io/kal/local_data/id/definition/confirmedCases2016-1> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases>.

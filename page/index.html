@@ -31,7 +31,7 @@
 	
 	"publisher":{
 	   "url": "http://datadock.io/kal/local_data/id/dataset/publisher",
-		
+		"@type":"Person",
 		
 		
 	  },
@@ -109,6 +109,14 @@
 			"name":"Tokyo Metro Stops",
 			"url":"http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops",
 		},
+	
+	
+	
+		{
+			"@type":"Dataset",
+			"name":"WHO Malaria - Confirmed Cases",
+			"url":"http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases",
+		},
 	]
 	
 	
@@ -154,7 +162,7 @@
 							<div>
 						
 								
-								<div class="list" property="dc:publisher" resource="http://datadock.io/kal/local_data/id/dataset/publisher" typeof="">
+								<div class="list" property="dc:publisher" resource="http://datadock.io/kal/local_data/id/dataset/publisher" typeof="http://xmlns.com/foaf/0.1/Person">
 									<div class="item">
 										<div class="content">
 											  <span property="foaf:name">Not specified.</span>
@@ -202,7 +210,7 @@
 					<div class="header">Publisher</div>
 						<div>
 						
-							<div class="list" property="dc:publisher" resource="http://datadock.io/kal/local_data/id/dataset/publisher" typeof="">
+							<div class="list" property="dc:publisher" resource="http://datadock.io/kal/local_data/id/dataset/publisher" typeof="http://xmlns.com/foaf/0.1/Person">
 								<div class="item">
 									<div class="content">
 										  <span property="foaf:name">Not specified.</span>
@@ -877,6 +885,73 @@
 																	
 									
 																			<a property="void:dataDump" class="ui primary button mr" href="https://github.com/kal/local_data/releases/download/tokyoMetroStops_20190315_170353/tokyoMetroStops_20190315_170353.nt.gz"><i class="download icon"></i>N-QUADS</a>
+																	
+												</div> <!-- end extra content -->
+
+                    </div><!-- end card -->
+                    
+				
+				<div class="card" property="void:subset" typeof="dcat:Dataset" resource="http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases">
+					<div class="content" about="http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases">
+						
+						<div class="header">
+							<h3 property="dc:title"><a href="http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases">WHO Malaria - Confirmed Cases</a></h3>
+						</div>
+						<div class="">
+						<dl>
+							<dt>Identifier:</dt>
+							<dd>http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases</dd>
+							<dt>Modified:</dt>
+							<dd>
+																
+									<span property="dc:modified" datatype="http://www.w3.org/2001/XMLSchema#date">2020-04-08</span>
+								
+							</dd>
+							<dt>License:</dt>
+							<dd>
+								
+								
+									
+											<a property="dc:license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC-0 (Public Domain)</a>
+										
+								
+							</dd>
+							<dt>Description:</dt>
+							<dd>
+								
+								
+									Not specified.
+								
+							</dd>
+						
+
+																				</dl>
+						</div>
+                        </div><!-- end content -->
+
+					<div class="extra content">
+						<span class="right floated">
+							  <div class="ui mini statistic">
+								<div class="value">
+									
+									
+										<span property="void:triples" datatype="http://www.w3.org/2001/XMLSchema#integer">5706</span>
+									
+								</div>
+								<div class="label">
+									Triples
+								</div>
+							</div>
+							</span> 
+
+						  														
+
+								
+									
+																			<a property="void:dataDump" class="ui primary button mr" href="http://datadock.io/kal/local_data/csv/whoMalariaConfirmedCases/malaria_confirmed_cases.csv"><i class="download icon"></i>CSV</a>
+																	
+									
+																			<a property="void:dataDump" class="ui primary button mr" href="https://github.com/kal/local_data/releases/download/whoMalariaConfirmedCases_20200408_132108/whoMalariaConfirmedCases_20200408_132108.nt.gz"><i class="download icon"></i>N-QUADS</a>
 																	
 												</div> <!-- end extra content -->
 
