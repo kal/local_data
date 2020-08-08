@@ -1,2 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/definition/confirmedCases2004-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "14910"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases>.
-<http://datadock.io/kal/local_data/id/resource/country/United%20Republic%20of%20Tanzania> <http://datadock.io/kal/local_data/id/definition/confirmedCases> <http://datadock.io/kal/local_data/id/definition/confirmedCases2008-101> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases>.
+﻿

@@ -1,2 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/definition/confirmedCases2017-77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "55367"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases>.
-<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_377> <http://www.w3.org/2000/01/rdf-schema#label> "Dunningford Allotments"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_377> <http://www.w3.org/2000/01/rdf-schema#label> "Dunningford Allotments"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.

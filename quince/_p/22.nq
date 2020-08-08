@@ -8,4 +8,3 @@
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops/metadata>.
-<http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases/metadata>.

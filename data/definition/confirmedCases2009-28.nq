@@ -1,2 +1,0 @@
-﻿<http://datadock.io/kal/local_data/id/definition/confirmedCases2009-28> <http://schema.org/temporalCoverage> "2009/P1Y"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases>.
-<http://datadock.io/kal/local_data/id/definition/confirmedCases2009-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "1878705"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases>.
