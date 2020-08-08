@@ -1,5 +1,0 @@
-﻿<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-F> <http://datadock.io/kal/local_data/id/definition/line> "tokyo-metro-F"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-F> <http://datadock.io/kal/local_data/id/definition/lineColour> "brown"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-F> <http://www.w3.org/2000/01/rdf-schema#label> "Fukutoshin Line"@en <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-F> <http://www.w3.org/2000/01/rdf-schema#label> "Ligne Fukutoshin"@fr <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
-<http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-F> <http://www.w3.org/2000/01/rdf-schema#label> "副都心線"@jp <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines>.
