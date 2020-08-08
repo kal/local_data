@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/resource/library/Denton%20Burn> <http://datadock.io/kal/local_data/id/definition/latitude> "54.983064"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries>.
-<http://datadock.io/kal/local_data/id/resource/library/Denton%20Burn> <http://datadock.io/kal/local_data/id/definition/latitude> "54.983064"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList>.
 <http://datadock.io/kal/local_data/id/resource/stop/F-03> <http://www.w3.org/2000/01/rdf-schema#label> "F-03"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
