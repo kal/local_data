@@ -1,3 +1,2 @@
 ﻿<http://datadock.io/kal/local_data/id/definition/confirmedCases2017-97> <http://schema.org/temporalCoverage> "2017/P1Y"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases>.
-<http://datadock.io/kal/local_data/id/definition/confirmedCases2017-97> <http://schema.org/year> "2017"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/malariaConfirmedCases>.
-<http://datadock.io/kal/local_data/id/definition/confirmedCases2017-97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "0"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/malariaConfirmedCases>.
+<http://datadock.io/kal/local_data/id/definition/confirmedCases2017-97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "0"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/whoMalariaConfirmedCases>.
