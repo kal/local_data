@@ -1,2 +1,1 @@
-﻿<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_440> <http://www.w3.org/2000/01/rdf-schema#label> "Addison Gardens Extension"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
-<http://datadock.io/kal/local_data/id/resource/glaAllotmentLocations/row_627> <http://datadock.io/kal/local_data/id/definition/nearestPostcode> "SM3 8QJ"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations>.
+﻿
