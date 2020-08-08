@@ -1,6 +1,5 @@
 ﻿<http://datadock.io/kal/local_data/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/glaAllotmentLocations/metadata>.
-<http://datadock.io/kal/local_data/id/dataset/londonAllotments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/londonAllotments/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesIssues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesIssues/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList/metadata>.
