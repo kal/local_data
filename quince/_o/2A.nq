@@ -1,2 +1,0 @@
-﻿<http://datadock.io/kal/local_data/id/definition/legislation> <http://www.w3.org/2000/01/rdf-schema#label> "Legislation"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
-<http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-白金高輪駅> <http://www.w3.org/2000/01/rdf-schema#label> "白金高輪駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv>.

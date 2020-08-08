@@ -1,5 +1,0 @@
-﻿<http://datadock.io/kal/local_data/id/definition/grade> <http://www.w3.org/2000/01/rdf-schema#label> "Grade"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/definitions>.
-<http://datadock.io/kal/local_data/id/resource/stop/G-01> <http://datadock.io/kal/local_data/id/definition/at_station> <http://datadock.io/kal/local_data/id/resource/station/tokyo-metro-渋谷駅> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
-<http://datadock.io/kal/local_data/id/resource/stop/G-01> <http://datadock.io/kal/local_data/id/definition/on_line> <http://datadock.io/kal/local_data/id/resource/line/tokyo-metro-G> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
-<http://datadock.io/kal/local_data/id/resource/stop/G-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#seeAlso> <http://linkdata.org/resource/rdf1s3114i#G-01> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
-<http://datadock.io/kal/local_data/id/resource/stop/G-01> <http://www.w3.org/2000/01/rdf-schema#label> "G-01"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStops>.
