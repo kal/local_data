@@ -1,5 +1,4 @@
 ﻿<http://datadock.io/kal/local_data/id/dataset/newcastleLibraries> <http://rdfs.org/ns/void#triples> "91"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/newcastleLibraries/metadata>.
-<http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesIssues> <http://rdfs.org/ns/void#triples> "5295"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesIssues/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList> <http://rdfs.org/ns/void#triples> "130"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/newcastleLibrariesList/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines> <http://rdfs.org/ns/void#triples> "50"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroLines/metadata>.
 <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv> <http://rdfs.org/ns/void#triples> "615"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/local_data/id/dataset/tokyoMetroStationscsv/metadata>.
